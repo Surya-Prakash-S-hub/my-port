@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://Surya-Prakash-S-hub.git.io/portfolio",
+  "homepage": "https://github.com/Surya-Prakash-S-hub.github.io/my-port.git",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
