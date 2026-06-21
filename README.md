@@ -1,70 +1,164 @@
-# Getting Started with Create React App
+# 🌐 My Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website! This portfolio showcases my skills, projects, internships, and experience as a Full Stack Web Developer.
 
-## Available Scripts
+## 🚀 About Me
 
-In the project directory, you can run:
+Hi, I'm **Surya Prakash S**, an MCA graduate and Full Stack Web Developer passionate about building modern, responsive, and user-friendly web applications.
 
-### `npm start`
+* 💻 Full Stack Web Developer
+* 🌱 Continuously learning new technologies and frameworks
+* 🚀 Interested in Web Development, React, Node.js, and JavaScript
+* 📍 Tamil Nadu, India
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+### Frontend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
 
-### `npm run build`
+### Backend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Node.js
+* Express.js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Database
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* PostgreSQL
+* Firebase
 
-### `npm run eject`
+### Tools & Platforms
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Git & GitHub
+* VS Code
+* Postman
+* Vercel
+* Render
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ✨ Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Responsive design for all devices
+* Modern and clean user interface
+* About Me section
+* Skills section
+* Projects showcase
+* Internship experience
+* Contact section
+* Download Resume option
+* Social media links
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📂 Featured Projects
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🏋️ Gym Management System
 
-### Code Splitting
+A full-stack application for managing gym memberships, fee payments, notifications, and supplement purchases.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Technologies:** React, Node.js, PostgreSQL, Firebase Authentication
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🎓 Automatic Student Education Quality Assessment Decision Support System
 
-### Making a Progressive Web App
+A machine learning-based system that evaluates student educational quality using learning coefficients and decision support techniques.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Technologies:** Python, Machine Learning
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 🗣️ Text-to-Speech & Speech-to-Text Application
 
-### Deployment
+A modern application that converts text into speech and speech into text.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**Technologies:** JavaScript, Web APIs
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 💼 Internship Experience
+
+### Full Stack Web Developer Intern
+
+**Unified Mentor**
+
+* Developed full-stack web applications.
+* Worked on real-world development tasks.
+* Improved problem-solving and debugging skills.
+
+### Full Stack Web Developer Intern
+
+**Mainflow Service and Technologies Pvt. Ltd.**
+
+* Worked remotely on real-time projects.
+* Improved communication and collaboration skills.
+* Gained experience in full-stack development.
+
+### Project Intern
+
+**Virtual Desk**
+
+* Contributed to an online student assessment project.
+* Worked with decision support system algorithms.
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of your portfolio here.
+
+```markdown
+![Home Page](./screenshots/home.png)
+![Projects Page](./screenshots/projects.png)
+```
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd portfolio
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 🐙 GitHub: https://github.com/your-username
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a star on GitHub. It motivates me to keep building and sharing more projects.
+
+Thank you for visiting my portfolio! 🚀
