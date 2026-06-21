@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Surya-Prakash-S-hub.github.io/my-port/static/js/main.50b076bd.js",
-    "static/media/user_pic.png": "/Surya-Prakash-S-hub.github.io/my-port/static/media/user_pic.2a5de294959f7b6f268d.png",
-    "static/media/resume.pdf": "/Surya-Prakash-S-hub.github.io/my-port/static/media/resume.9b29c450e823daf25ede.pdf",
-    "static/media/pr.png": "/Surya-Prakash-S-hub.github.io/my-port/static/media/pr.36b9394301c615b9ec1e.png",
-    "index.html": "/Surya-Prakash-S-hub.github.io/my-port/index.html",
-    "main.50b076bd.js.map": "/Surya-Prakash-S-hub.github.io/my-port/static/js/main.50b076bd.js.map"
+    "main.js": "/my-port/static/js/main.c0f5b178.js",
+    "static/media/user_pic.png": "/my-port/static/media/user_pic.2a5de294959f7b6f268d.png",
+    "static/media/resume.pdf": "/my-port/static/media/resume.9b29c450e823daf25ede.pdf",
+    "static/media/pr.png": "/my-port/static/media/pr.36b9394301c615b9ec1e.png",
+    "index.html": "/my-port/index.html",
+    "main.c0f5b178.js.map": "/my-port/static/js/main.c0f5b178.js.map"
   },
   "entrypoints": [
-    "static/js/main.50b076bd.js"
+    "static/js/main.c0f5b178.js"
   ]
 }
