@@ -1,6 +1,7 @@
 # 🌐 My Portfolio
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, internships, and experience as a Full Stack Web Developer.
+(Working on it)
 
 ## 🚀 About Me
 
@@ -126,7 +127,7 @@ Add screenshots of your portfolio here.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Surya-Prakash-S-hub/my-port.git
 ```
 
 2. Navigate to the project directory
